@@ -1,4 +1,4 @@
 with open('./hello.log', 'a') as f:
-    f.write('hello world2!')
+    f.write('hello world3!')
     f.write('\n')
-print 'hello world!'
+print 'hello world3!'
